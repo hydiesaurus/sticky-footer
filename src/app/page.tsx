@@ -3,7 +3,7 @@
 import { useEffect } from 'react';
 import Lenis from 'lenis';
 import Intro from '../components/Intro';
-import Footer from '../components/Footer2'; // ganti ke Footer2 kalau mau coba sticky
+import Footer from '../components/Footer2';
 
 export default function Home() {
   useEffect(() => {
